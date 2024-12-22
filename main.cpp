@@ -1,7 +1,7 @@
 #include <iostream>
+#include "HashTable.cpp"
 #include <vector>
 #include <cmath>
-#include "HashTable.cpp"
 using namespace std;
 
 class HashTable {
